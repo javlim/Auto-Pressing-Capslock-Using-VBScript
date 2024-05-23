@@ -21,6 +21,3 @@ This mini project contains a VBScript that automatically presses the CAPSLOCK ke
 - The script will open Internet Explorer which shows how many times the Capslock key has been pressed.
 - Every 4 mins the script will press the Capslock key and you can confirm this by checking your keyboard
 - The user can stop the script by clicking the "Stop" button in Internet Explorer, which will close the browser and terminate the script.
-<br><br><br><br>
-
->*I created this script so that I can leave my computer without worrying it will enter sleep mode while downloading large files. Its too much of a hassle for me to change the settings everytime I download a large file and change it back after* 😂 
